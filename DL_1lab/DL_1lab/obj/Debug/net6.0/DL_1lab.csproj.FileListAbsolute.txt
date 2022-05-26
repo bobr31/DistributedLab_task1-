@@ -1,0 +1,15 @@
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\bin\Debug\net6.0\DL_1lab.exe
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\bin\Debug\net6.0\DL_1lab.deps.json
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\bin\Debug\net6.0\DL_1lab.runtimeconfig.json
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\bin\Debug\net6.0\DL_1lab.dll
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\bin\Debug\net6.0\DL_1lab.pdb
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\obj\Debug\net6.0\DL_1lab.csproj.AssemblyReference.cache
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\obj\Debug\net6.0\DL_1lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\obj\Debug\net6.0\DL_1lab.AssemblyInfoInputs.cache
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\obj\Debug\net6.0\DL_1lab.AssemblyInfo.cs
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\obj\Debug\net6.0\DL_1lab.csproj.CoreCompileInputs.cache
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\obj\Debug\net6.0\DL_1lab.dll
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\obj\Debug\net6.0\refint\DL_1lab.dll
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\obj\Debug\net6.0\DL_1lab.pdb
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\obj\Debug\net6.0\DL_1lab.genruntimeconfig.cache
+C:\Users\Beggins\source\repos\DL_1lab\DL_1lab\obj\Debug\net6.0\ref\DL_1lab.dll
